@@ -1,0 +1,4 @@
+# Copia este archivo como config.properties y pon TUS datos de Neon
+db.url=jdbc:postgresql://ep-XXXX.REGION.aws.neon.tech/neondb?sslmode=require
+db.user=TU_USUARIO
+db.password=TU_PASSWORD
